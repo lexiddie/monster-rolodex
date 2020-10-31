@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lexiddie.github.io/monster-rolodex/static/css/main.17e81b9e.chunk.css",
+    "main.js": "/lexiddie.github.io/monster-rolodex/static/js/main.0d7d8a6d.chunk.js",
+    "main.js.map": "/lexiddie.github.io/monster-rolodex/static/js/main.0d7d8a6d.chunk.js.map",
+    "runtime-main.js": "/lexiddie.github.io/monster-rolodex/static/js/runtime-main.d2235337.js",
+    "runtime-main.js.map": "/lexiddie.github.io/monster-rolodex/static/js/runtime-main.d2235337.js.map",
+    "static/js/2.81ae2472.chunk.js": "/lexiddie.github.io/monster-rolodex/static/js/2.81ae2472.chunk.js",
+    "static/js/2.81ae2472.chunk.js.map": "/lexiddie.github.io/monster-rolodex/static/js/2.81ae2472.chunk.js.map",
+    "static/js/3.6192c455.chunk.js": "/lexiddie.github.io/monster-rolodex/static/js/3.6192c455.chunk.js",
+    "static/js/3.6192c455.chunk.js.map": "/lexiddie.github.io/monster-rolodex/static/js/3.6192c455.chunk.js.map",
+    "index.html": "/lexiddie.github.io/monster-rolodex/index.html",
+    "static/css/main.17e81b9e.chunk.css.map": "/lexiddie.github.io/monster-rolodex/static/css/main.17e81b9e.chunk.css.map",
+    "static/js/2.81ae2472.chunk.js.LICENSE.txt": "/lexiddie.github.io/monster-rolodex/static/js/2.81ae2472.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2235337.js",
+    "static/js/2.81ae2472.chunk.js",
+    "static/css/main.17e81b9e.chunk.css",
+    "static/js/main.0d7d8a6d.chunk.js"
+  ]
+}
